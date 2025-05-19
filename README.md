@@ -5,8 +5,8 @@ Exploring solar radiation, weather conditions, and sensor performance data for a
 
 ```plaintext
 project-root/
-├── .venv/                 # Python virtual environment (excluded via .gitignore)
-├── data/                  # Raw and cleaned datasets (excluded via .gitignore)
+├── .venv/                 # Python virtual environment 
+├── data/                  # Raw and cleaned datasets 
 ├── notebooks/             # Jupyter notebooks for EDA and analysis
 ├── scripts/               # Standalone Python scripts (e.g., cleaning, processing)
 ├── src/                   # Source code for reusable modules and functions
