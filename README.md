@@ -34,3 +34,59 @@ project-root/
 ```
 
 The notebooks include descriptive statistics and correlation analysis of each location's wind and temperature parameters.
+
+## 🧪 Features & Highlights
+
+- 📊 **Jupyter Notebooks**:
+  - Location-specific EDA (Benin, Sierra Leone, Togo)
+  - Seasonal, diurnal, and annual trend visualizations
+  - Correlation heatmaps between radiation and meteorological parameters
+
+- ⚙️ **Data Processing Scripts**:
+  - Cleaning of raw sensor data
+  - Outlier detection and treatment
+
+- 📉 **Visual Analysis**:
+  - Boxplots, histograms, line charts, scatter plots, wind roses
+  - 3D and multivariate plots for deeper insights
+
+- 📈 **Comparative Insights**:
+  - Regional solar potential comparisons
+  - Suitability analysis for solar technology deployment (e.g., PV vs CSP)
+
+## 📦 Setup Instructions
+
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/SamrawitMM/solar-radiation-data-insights.git
+   cd solar-radiation-data-insights
+    ```
+2. **Set up the virtual environment:
+   ```bash
+    python -m venv .venv
+    source .venv/bin/activate  # On Windows: .venv\Scripts\activate
+    ```
+3. **Install dependencies**
+   ```bash
+    pip install -r requirements.txt
+    ```
+## ✅ Requirements
+
+- Python 3.8+
+- pandas, numpy, matplotlib, seaborn, plotly
+- scikit-learn, scipy, jupyterlab
+- Other dependencies listed in requirements.txt
+
+## 📌 Usage
+
+- Navigate to the notebooks/ folder for individual country analyses and also for comparison.
+- Use scripts/ to preprocess raw data and reusable plot functions.
+- Navigate to app to run the streamlit dashboard
+
+## 📄 License
+____________________________________________________________________________
+This project is licensed under the MIT License. See LICENSE for more details.
+_____________________________________________________________________________
+
+
+
