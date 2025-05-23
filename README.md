@@ -3,7 +3,7 @@ Exploring solar radiation, weather conditions, and sensor performance data for a
 
 ## 🎬 Streamlit App Demo
 
-![Streamlit App Demo](backgroundimage/dashboard.gif)
+![Streamlit App Demo](dashboard/dashboard.gif)
 
 ---
 
