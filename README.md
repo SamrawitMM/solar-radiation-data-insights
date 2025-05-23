@@ -1,5 +1,19 @@
 # solar-radiation-data-insights
-Exploring solar radiation, weather conditions, and sensor performance data for analysis and modeling.
+Exploring solar radiation, weather conditions, and sensor performance data for analysis.
+
+## 🎬 Streamlit App Demo
+
+![Streamlit App Demo]([path/to/your/streamlit-demo.gif](https://drive.google.com/file/d/1K7goI-EtqtjQNB1OjAy4QeJfvL5MOC3O/view?usp=sharing))
+
+---
+
+## 📌 Project Goals
+
+- Analyze solar irradiance components (GHI, DNI, DHI) across different regions.
+- Examine environmental factors like temperature, wind, and humidity affecting solar potential.
+- Identify seasonal and geographic patterns relevant to renewable energy deployment.
+- Evaluate sensor data consistency and detect anomalies or outliers.
+- Provide insights to support solar energy system planning and optimization.
 
 ## 📁 Project Structure
 
